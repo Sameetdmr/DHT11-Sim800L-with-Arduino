@@ -2,7 +2,9 @@
 
 - Bu projemde uzaktan etkileşim aracı olan Sim800L ile birlikte Ortamdaki hava ve nem değerlerini alıp istenilen numaraya aktarıldı.
 
-- Onunla birlikte kullanıcının Nabız değerleride mesaja eklendi 
+- Onunla birlikte kullanıcının Nabız değerleride mesaja eklendi.
+
+# Bağlantı düzeni aşağıdaki gösterildiği gibidir.
 
 ![Adsız1](https://user-images.githubusercontent.com/43873156/61982661-2810e900-b006-11e9-9e48-1ae81b1468b2.png)
 
