@@ -2,7 +2,7 @@
 SoftwareSerial sim(10, 11);
 int _timeout;
 String _buffer;
-String number = "+905530904822"; //-> change with your number
+String number = "+90xxxxxxxxxx"; //-> change with your number
 
 #include <dht.h>
 #include <DHT.h>
